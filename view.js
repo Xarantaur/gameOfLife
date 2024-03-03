@@ -1,4 +1,4 @@
-import * as controller from "./controller.js";
+import * as controller from "/controller.js";
 
 export function renderGrid(grid) {
   // manifester grid-containeren i JS 
